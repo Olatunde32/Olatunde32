@@ -1,4 +1,4 @@
-### <p align="center"><h1>Hi 👋, I 'm Olatunde Adedeji</h1></p><hr/>
+### <p align="center"><h1>Hi 👋, I 'm Olatunde Adedeji</h1><hr/></p>
 ### <p align="center"><h3>Full-Stack Software Engineer<h3></p>
 <ul>
 <li>🔭 I’m currently working on ...</li>
