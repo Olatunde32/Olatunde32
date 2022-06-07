@@ -1,5 +1,6 @@
 ### <p align="center"><h1>Hi 👋, I 'm Olatunde Adedeji</h1><hr/></p>
 ### <p align="center"><h3>Full-Stack Software Engineer<h3></p>
+  [![MasterHead](your image link)](your GitHub link)
 <ul>
 <li>🔭 I’m currently working on ...</li>
 <li>🌱 I’m currently learning ...</li>
