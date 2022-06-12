@@ -9,7 +9,7 @@
 <li>💬 Ask me about Fullstack web development, Artificial intelligence, AWS Cloud Computing and Chess Tactics</li>
 <li>📫 How to reach me:olatundeadedeji32[@]gmail.com and surely on <Link>LinkedIn</Link></li>
 <li>😄 Pronouns: We</li>
-<li>⚡ Fun fact: I close my eyes when I spleep!</li>
+<li>⚡ Fun fact: I close my eyes when I sleep!</li>
   </ul>
 
 
