@@ -3,7 +3,7 @@
 
 <ul>
 <li>🔭 I’m currently working on all cool things humanly possible</li>
-<li>🌱 I’m currently learning how to use Python deploy machine learning models on web apps</li>
+<li>🌱 I’m currently learning how to use Python to deploy machine learning models on web apps</li>
 <li>👯 I’m looking to collaborate on open source projects</li>
 <li>🤔 I’m looking for help with getting my fingers more busy, cool stuffs!</li>
 <li>💬 Ask me about Full-Stack web development, Artificial intelligence, AWS Cloud Computing and Chess Tactics</li>
