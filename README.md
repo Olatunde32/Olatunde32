@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=olatundeadedeji&color=green)
 
 <ul>
-<li>🔭 I’m currently working on all cool things ossible</li>
+<li>🔭 I’m currently working on all cool things possible</li>
 <li>🌱 I’m currently learning how to use Pythonand NodeJs to deploy machine learning models in web apps</li>
 <li>👯 I’m looking to collaborate on open source projects</li>
 <li>🤔 I’m looking for help with getting my fingers more busy, cool stuffs!</li>
