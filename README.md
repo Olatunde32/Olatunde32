@@ -1,5 +1,6 @@
 ##  Hi 👋, I 'm Olatunde Adedeji
 ### Full-Stack Software Engineer
+![](https://komarev.com/ghpvc/?username=olatundeadedeji&color=green)
 
 <ul>
 <li>🔭 I’m currently working on all cool things ossible</li>
