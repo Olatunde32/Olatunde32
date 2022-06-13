@@ -2,8 +2,8 @@
 ### Full-Stack Software Engineer
 
 <ul>
-<li>🔭 I’m currently working on all cool things humanly possible</li>
-<li>🌱 I’m currently learning how to use Python to deploy machine learning models on web apps</li>
+<li>🔭 I’m currently working on all cool things ossible</li>
+<li>🌱 I’m currently learning how to use Pythonand NodeJs to deploy machine learning models in web apps</li>
 <li>👯 I’m looking to collaborate on open source projects</li>
 <li>🤔 I’m looking for help with getting my fingers more busy, cool stuffs!</li>
 <li>💬 Ask me about Full-Stack web development, Artificial intelligence, AWS Cloud Computing and Chess Tactics</li>
