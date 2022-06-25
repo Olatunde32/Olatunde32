@@ -11,8 +11,8 @@
 
   💬  Full-Stack web development<br>
   💬  Cloud Computing<br>
-  💬  Chess Strategy and Tactics<br>
   💬  Artificial intelligence<br>
+  💬  Chess Strategy and Tactics<br>
 
   
 ## Other cool things
