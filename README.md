@@ -1,15 +1,26 @@
 ##  Hi 👋, I 'm Olatunde Adedeji
 ### Full-Stack Software Engineer
 ![](https://komarev.com/ghpvc/?username=olatundeadedeji&color=green)
-
+##  I'm 
 <ul>
-<li>🔭 I’m currently working on all cool things possible</li>
-<li>🌱 I’m currently learning how to use Pythonand NodeJs to deploy machine learning models in web apps</li>
-<li>👯 I’m looking to collaborate on open source projects</li>
-<li>🤔 I’m looking for help with getting my fingers more busy, cool stuffs!</li>
-<li>💬 Ask me about Full-Stack web development, Artificial intelligence, AWS Cloud Computing and Chess Tactics</li>
+<li>🔭 Currently working on a technical book in the publisihing process- watch out!</li>
+<li>🌱 Crrently learning how to use Python and NodeJs to deploy machine learning models in web apps using cloud platform</li>
+<li>👯 Looking for collaborations to build something great</li>
+
+  </ul>
+  
+ ##  Ask me about
+<ul>
+
+<li>💬 Full-Stack web development</li>
+  <li>Cloud Computing</li>
+  <li>💬 chess Strategy and Tactics</li>
+<li>>💬 Artificial intelligence</li>
+  </ul>
+##  Other cool things
+<ul>
 <li>📫 How to reach me: olatundeadedeji32[@]gmail.com and surely on <Link>LinkedIn</Link></li>
 <li>⚡ Fun fact: I close my eyes when I sleep!</li>
   </ul>
-
+  
 
