@@ -4,23 +4,22 @@
 
 ##  I'm 
 
-🔭 Currently working on a technical book in the publisihing process- watch out!
-🌱 Crrently learning how to use Python and NodeJs to deploy machine learning models in web apps using cloud platform
-👯 Looking for collaborations to build something great
+🔭 Currently working on a technical book in the publisihing process- watch out!<br>
+🌱 Crrently learning how to use Python and NodeJs to deploy machine learning models in web apps using cloud platform<br>
+👯 Looking for collaborations to build something great<br>
 
   
  ## Ask me about
-<ul>
-   <li>💬 Full-Stack web development</li>
-  <li>💬  Cloud Computing</li>
-  <li>💬  Chess Strategy and Tactics</li>
-  <li>💬 Artificial intelligence</li>
-  </ul>
+
+  💬  Full-Stack web development<br>
+  💬  Cloud Computing<br>
+  💬  Chess Strategy and Tactics<br>
+  💬  Artificial intelligence<br>
+
   
 ## Other cool things
-<ul>
-<li>📫 How to reach me: olatundeadedeji32[@]gmail.com and surely on <Link>LinkedIn</Link></li>
-<li>⚡ Fun fact: I close my eyes when I sleep!</li>
-  </ul>
+
+📫 How to reach me: olatundeadedeji32[@]gmail.com and surely on <Link>LinkedIn</Link><br>
+⚡ Fun fact: I close my eyes when I sleep!<br>
   
 
