@@ -8,7 +8,7 @@
 
 ## Articles
 
-[How React Flirts with Data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)
+[How React Flirts with Data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)<br>
 [A Succinct Explanation of React.useEffect() Hook](https://dev.to/olatundeadedeji/a-succinct-explanation-of-reactuseeffect-hook-3eo4)
 
   
