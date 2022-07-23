@@ -6,6 +6,11 @@
 🌱 Crrently learning how to use Python and NodeJs to deploy machine learning models in web apps using cloud platform<br>
 👯 Looking for collaborations to build something great<br>
 
+## Articles
+
+[How React Flirts with Data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)
+[A Succinct Explanation of React.useEffect() Hook](https://dev.to/olatundeadedeji/a-succinct-explanation-of-reactuseeffect-hook-3eo4)
+
   
  ## Ask me about
 
