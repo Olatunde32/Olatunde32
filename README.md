@@ -1,5 +1,5 @@
 ##  Hi 👋, I 'm Olatunde Adedeji
-### Full-Stack Software Engineer
+### Full-Stack Web Developer
 ![](https://komarev.com/ghpvc/?username=olatundeadedeji&color=green)
 
 🔭 Currently working on a technical book in the publisihing process- watch out!<br>
@@ -14,9 +14,9 @@
   
  ## Ask me about
 
-  💬  Full-Stack web development<br>
+  💬  Full-Stack Web Development<br>
   💬  Cloud Computing<br>
-  💬  Artificial intelligence<br>
+  💬  Artificial Intelligence<br>
   💬  Chess Strategy and Tactics<br>
 
   
